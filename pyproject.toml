@@ -24,5 +24,5 @@ test = "pytest tests"
 [tool.pdm.dev-dependencies]
 dev = [
     "pytest>=7",
-    "pdm[pytest]>=2.5"
+    "pdm[pytest]>=2.19.1"
 ]
